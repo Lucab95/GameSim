@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../ACML-master/1_NN_backpropagation/.idea/1_NN_backpropagation.iml" filepath="$PROJECT_DIR$/../ACML-master/1_NN_backpropagation/.idea/1_NN_backpropagation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ACML-master/2_Convolutional Autoencoder/.idea/2_Convolutional Autoencoder.iml" filepath="$PROJECT_DIR$/../ACML-master/2_Convolutional Autoencoder/.idea/2_Convolutional Autoencoder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ACML-master/3_Reinforcement Learning/.idea/3_Reinforcement Learning.iml" filepath="$PROJECT_DIR$/../ACML-master/3_Reinforcement Learning/.idea/3_Reinforcement Learning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Master/1.1 - Intelligent search &amp; games - 6/BreakthruISG/.idea/BreakthruISG.iml" filepath="$PROJECT_DIR$/../Master/1.1 - Intelligent search &amp; games - 6/BreakthruISG/.idea/BreakthruISG.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/GameSim.iml" filepath="$PROJECT_DIR$/.idea/GameSim.iml" />
+    </modules>
+  </component>
+</project>
